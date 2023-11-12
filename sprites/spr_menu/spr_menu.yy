@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Menu System",
-    "path": "folders/Menu System.yy",
+    "name": "Menu",
+    "path": "folders/Menu.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
